@@ -1,0 +1,43 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "VAS Comfort and KSS - Scan 2"
+    }, 
+    "session": {
+        "Description": "Visit code", 
+        "Units": "Discrete values"
+    }, 
+    "vas_kss_1_scan2": {
+        "Description": "How comfortable are you right now?", 
+        "Levels": {
+            "0": "0 Not at all", 
+            "1": "1", 
+            "10": "10 Extremely", 
+            "2": "2 Mildly", 
+            "3": "3", 
+            "4": "4", 
+            "5": "5 Moderately", 
+            "6": "6", 
+            "7": "7", 
+            "8": "8 Markedly", 
+            "9": "9"
+        }
+    }, 
+    "vas_kss_2_scan2": {
+        "Description": "How alert are you right now?", 
+        "Levels": {
+            "1": "1 Extremely alert", 
+            "2": "2 Very alert", 
+            "3": "3 Rather alert", 
+            "4": "4 Neither alert nor sleepy", 
+            "5": "5 Some sighs of sleepiness", 
+            "6": "6 Sleepy", 
+            "7": "7 Sleepy", 
+            "8": "8 Very sleepy", 
+            "9": "9 Extremely sleepy"
+        }
+    }, 
+    "vas_kss_2_scannumber": {
+        "Description": "Scan file identifier:", 
+        "Levels": ""
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "State-trait Anxiety Inventory (STAI-State)"
+    }, 
+    "session": {
+        "Description": "Visit code", 
+        "Units": "Discrete values"
+    }, 
+    "stais_1": {
+        "Description": "1. I feel calm.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_10": {
+        "Description": "10. I feel comfortable.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_11": {
+        "Description": "11. I feel self-confident.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_12": {
+        "Description": "12. I feel nervous.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_13": {
+        "Description": "13. I am jittery.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_14": {
+        "Description": "14. I feel indecisive.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_15": {
+        "Description": "15. I am relaxed.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_16": {
+        "Description": "16. I feel content.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_17": {
+        "Description": "17. I am worried.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_18": {
+        "Description": "18. I feel confused.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_19": {
+        "Description": "19. I feel steady.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_2": {
+        "Description": "2. I feel secure.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_20": {
+        "Description": "20. I feel pleasant.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_3": {
+        "Description": "3. I am tense.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_4": {
+        "Description": "4. I feel strained.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_5": {
+        "Description": "5. I feel at ease.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_6": {
+        "Description": "6. I feel upset.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_7": {
+        "Description": "7. I am presently worrying over possible misfortunes.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_8": {
+        "Description": "8. I feel satisfied.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_9": {
+        "Description": "9. I feel frightened.", 
+        "Levels": {
+            "1": "Not at all", 
+            "2": "Somewhat", 
+            "3": "Moderately so", 
+            "4": "Very much so"
+        }
+    }, 
+    "stais_assessed_at": {
+        "Description": "Assessed at", 
+        "Levels": ""
+    }, 
+    "stais_state_score": {
+        "Description": "State", 
+        "Levels": "sum(5 - [stais_1], 5 - [stais_2], [stais_3], [stais_4], 5 - [stais_5], [stais_6], [stais_7], 5 - [stais_8], [stais_9], 5 - [stais_10], 5 - [stais_11], [stais_12], [stais_13], [stais_14], 5 - [stais_15], 5 - [stais_16], [stais_17], [stais_18], 5 - [stais_19], 5 - [stais_20])"
+    }
+}

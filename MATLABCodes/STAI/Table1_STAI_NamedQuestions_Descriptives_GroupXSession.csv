@@ -1,0 +1,85 @@
+Session,Group,Measure,Question,N,Mean,SD,SEM
+pre,down-regulation,stais_1,I feel calm,9,3.33333333333333,0.707106781186547,0.235702260395516
+pre,up-regulation,stais_1,I feel calm,10,3.3,0.823272602348565,0.260341655863555
+post,down-regulation,stais_1,I feel calm,8,3,0.925820099772551,0.327326835353989
+post,up-regulation,stais_1,I feel calm,8,3.25,0.707106781186548,0.25
+pre,down-regulation,stais_2,I feel secure,9,3.11111111111111,0.781735959970572,0.260578653323524
+pre,up-regulation,stais_2,I feel secure,10,3.4,0.516397779494322,0.163299316185545
+post,down-regulation,stais_2,I feel secure,8,3.25,0.707106781186548,0.25
+post,up-regulation,stais_2,I feel secure,8,3.375,0.744023809142845,0.263052140404576
+pre,down-regulation,stais_3,I am tense,9,1.22222222222222,0.440958551844098,0.146986183948033
+pre,up-regulation,stais_3,I am tense,10,1.3,0.483045891539648,0.152752523165195
+post,down-regulation,stais_3,I am tense,8,1.5,0.534522483824849,0.188982236504614
+post,up-regulation,stais_3,I am tense,8,1.25,0.462910049886276,0.163663417676994
+pre,down-regulation,stais_4,I feel strained,9,1,0,0
+pre,up-regulation,stais_4,I feel strained,10,1.2,0.421637021355784,0.133333333333333
+post,down-regulation,stais_4,I feel strained,8,1.125,0.353553390593274,0.125
+post,up-regulation,stais_4,I feel strained,8,1.25,0.462910049886276,0.163663417676994
+pre,down-regulation,stais_5,I feel at ease,9,3,1,0.333333333333333
+pre,up-regulation,stais_5,I feel at ease,10,3.4,0.699205898780101,0.221108319357027
+post,down-regulation,stais_5,I feel at ease,8,3,0.925820099772551,0.327326835353989
+post,up-regulation,stais_5,I feel at ease,8,2.75,1.03509833901353,0.3659625273557
+pre,down-regulation,stais_6,I feel upset,9,1,0,0
+pre,up-regulation,stais_6,I feel upset,10,1,0,0
+post,down-regulation,stais_6,I feel upset,8,1,0,0
+post,up-regulation,stais_6,I feel upset,8,1.125,0.353553390593274,0.125
+pre,down-regulation,stais_7,I am presently worrying over possible misfortunes,9,1,0,0
+pre,up-regulation,stais_7,I am presently worrying over possible misfortunes,10,1.2,0.421637021355784,0.133333333333333
+post,down-regulation,stais_7,I am presently worrying over possible misfortunes,8,1.25,0.462910049886276,0.163663417676994
+post,up-regulation,stais_7,I am presently worrying over possible misfortunes,8,1.25,0.462910049886276,0.163663417676994
+pre,down-regulation,stais_8,I feel satisfied,9,2.88888888888889,0.927960727138337,0.309320242379446
+pre,up-regulation,stais_8,I feel satisfied,10,3,0.816496580927726,0.258198889747161
+post,down-regulation,stais_8,I feel satisfied,8,2.875,0.991031208965115,0.350382444113368
+post,up-regulation,stais_8,I feel satisfied,8,3.125,0.640869944461656,0.226581741793741
+pre,down-regulation,stais_9,I feel frightened,9,1,0,0
+pre,up-regulation,stais_9,I feel frightened,10,1,0,0
+post,down-regulation,stais_9,I feel frightened,8,1,0,0
+post,up-regulation,stais_9,I feel frightened,8,1,0,0
+pre,down-regulation,stais_10,I feel comfortable,9,3,0.707106781186548,0.235702260395516
+pre,up-regulation,stais_10,I feel comfortable,10,3.3,0.483045891539648,0.152752523165195
+post,down-regulation,stais_10,I feel comfortable,8,2.625,0.517549169506766,0.18298126367785
+post,up-regulation,stais_10,I feel comfortable,8,3.25,0.707106781186548,0.25
+pre,down-regulation,stais_11,I feel self-confident,9,2.88888888888889,0.600925212577332,0.200308404192444
+pre,up-regulation,stais_11,I feel self-confident,10,3.3,0.483045891539648,0.152752523165195
+post,down-regulation,stais_11,I feel self-confident,8,2.625,0.517549169506766,0.18298126367785
+post,up-regulation,stais_11,I feel self-confident,8,3.125,0.640869944461656,0.226581741793741
+pre,down-regulation,stais_12,I feel nervous,9,1.22222222222222,0.440958551844098,0.146986183948033
+pre,up-regulation,stais_12,I feel nervous,10,1.3,0.483045891539648,0.152752523165195
+post,down-regulation,stais_12,I feel nervous,8,1.125,0.353553390593274,0.125
+post,up-regulation,stais_12,I feel nervous,8,1.125,0.353553390593274,0.125
+pre,down-regulation,stais_13,I am jittery,9,1.11111111111111,0.333333333333333,0.111111111111111
+pre,up-regulation,stais_13,I am jittery,10,1,0,0
+post,down-regulation,stais_13,I am jittery,8,1.375,0.744023809142845,0.263052140404576
+post,up-regulation,stais_13,I am jittery,8,1,0,0
+pre,down-regulation,stais_14,I feel indecisive,9,1.11111111111111,0.333333333333333,0.111111111111111
+pre,up-regulation,stais_14,I feel indecisive,10,1.1,0.316227766016838,0.1
+post,down-regulation,stais_14,I feel indecisive,8,1,0,0
+post,up-regulation,stais_14,I feel indecisive,8,1.125,0.353553390593274,0.125
+pre,down-regulation,stais_15,I am relaxed,9,3,0.707106781186548,0.235702260395516
+pre,up-regulation,stais_15,I am relaxed,10,3.1,0.737864787372622,0.233333333333333
+post,down-regulation,stais_15,I am relaxed,8,2.75,0.886405260427918,0.313391585264004
+post,up-regulation,stais_15,I am relaxed,8,3.25,0.462910049886276,0.163663417676994
+pre,down-regulation,stais_16,I feel content,9,3,0.707106781186548,0.235702260395516
+pre,up-regulation,stais_16,I feel content,10,3.4,0.699205898780101,0.221108319357027
+post,down-regulation,stais_16,I feel content,8,2.75,1.03509833901353,0.3659625273557
+post,up-regulation,stais_16,I feel content,8,3.25,0.462910049886276,0.163663417676994
+pre,down-regulation,stais_17,I am worried,9,1,0,0
+pre,up-regulation,stais_17,I am worried,10,1.2,0.421637021355784,0.133333333333333
+post,down-regulation,stais_17,I am worried,8,1.125,0.353553390593274,0.125
+post,up-regulation,stais_17,I am worried,8,1.25,0.462910049886276,0.163663417676994
+pre,down-regulation,stais_18,I feel confused,9,1,0,0
+pre,up-regulation,stais_18,I feel confused,10,1,0,0
+post,down-regulation,stais_18,I feel confused,8,1,0,0
+post,up-regulation,stais_18,I feel confused,8,1,0,0
+pre,down-regulation,stais_19,I feel steady,9,2.88888888888889,0.927960727138337,0.309320242379446
+pre,up-regulation,stais_19,I feel steady,10,3.2,0.632455532033676,0.2
+post,down-regulation,stais_19,I feel steady,8,2.625,1.18773493916542,0.41992771486803
+post,up-regulation,stais_19,I feel steady,8,3.375,0.517549169506766,0.18298126367785
+pre,down-regulation,stais_20,I feel pleasant,9,2.88888888888889,0.781735959970572,0.260578653323524
+pre,up-regulation,stais_20,I feel pleasant,10,3.3,0.483045891539648,0.152752523165195
+post,down-regulation,stais_20,I feel pleasant,8,2.75,0.886405260427918,0.313391585264004
+post,up-regulation,stais_20,I feel pleasant,8,3.25,0.462910049886276,0.163663417676994
+pre,down-regulation,stais_state_score,STAI-State Total Score,9,30.6666666666667,7.15891053163818,2.38630351054606
+pre,up-regulation,stais_state_score,STAI-State Total Score,10,28.6,6.44980619863884,2.03960780543711
+post,down-regulation,stais_state_score,STAI-State Total Score,8,33.25,8.82771609356415,3.12106895607441
+post,up-regulation,stais_state_score,STAI-State Total Score,9,26.1111111111111,11.4939597663778,3.83131992212593

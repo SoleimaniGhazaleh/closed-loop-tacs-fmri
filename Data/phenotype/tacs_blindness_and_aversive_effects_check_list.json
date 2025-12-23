@@ -1,0 +1,299 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "tACS Blindness and Aversive Effects Check List"
+    }, 
+    "baecl_1": {
+        "Description": "Was it \"Sham\" or \"Real\" stimulation? ", 
+        "Levels": {
+            "1": "Sham", 
+            "2": "Real"
+        }
+    }, 
+    "baecl_10": {
+        "Description": "Skin redness?", 
+        "Levels": ""
+    }, 
+    "baecl_10a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "baecl_10b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "0": "No", 
+            "1": "Remote", 
+            "2": "Possible", 
+            "3": "Probably", 
+            "4": "Definite"
+        }
+    }, 
+    "baecl_11": {
+        "Description": "Sleepiness?", 
+        "Levels": ""
+    }, 
+    "baecl_11a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "baecl_11b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "0": "No", 
+            "1": "Remote", 
+            "2": "Possible", 
+            "3": "Probably", 
+            "4": "Definite"
+        }
+    }, 
+    "baecl_12": {
+        "Description": "Trouble concentrating?", 
+        "Levels": ""
+    }, 
+    "baecl_12a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "baecl_12b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "0": "No", 
+            "1": "Remote", 
+            "2": "Possible", 
+            "3": "Probably", 
+            "4": "Definite"
+        }
+    }, 
+    "baecl_13": {
+        "Description": "Acute mood change?", 
+        "Levels": ""
+    }, 
+    "baecl_13a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "baecl_13b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "0": "No", 
+            "1": "Remote", 
+            "2": "Possible", 
+            "3": "Probably", 
+            "4": "Definite"
+        }
+    }, 
+    "baecl_14": {
+        "Description": "Other adverse effects?", 
+        "Levels": ""
+    }, 
+    "baecl_14_other": {
+        "Description": "Please specify:", 
+        "Levels": ""
+    }, 
+    "baecl_14a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "baecl_14b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "0": "No", 
+            "1": "Remote", 
+            "2": "Possible", 
+            "3": "Probably", 
+            "4": "Definite"
+        }
+    }, 
+    "baecl_2": {
+        "Description": "On a scale of 0-10, how much you are confident with your response?", 
+        "Levels": {
+            "0": "0 Not at all", 
+            "1": "1", 
+            "10": "10 Extremely", 
+            "2": "2 Mildly", 
+            "3": "3", 
+            "4": "4", 
+            "5": "5 Moderately", 
+            "6": "6", 
+            "7": "7", 
+            "8": "8 Markedly", 
+            "9": "9"
+        }
+    }, 
+    "baecl_3": {
+        "Description": "Do you think that your achievement during the N-back task was improved?", 
+        "Levels": {
+            "0": "No", 
+            "1": "Remotely", 
+            "2": "Possibly", 
+            "3": "Probably", 
+            "4": "Definitely"
+        }
+    }, 
+    "baecl_4": {
+        "Description": "Headache?", 
+        "Levels": ""
+    }, 
+    "baecl_4a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "baecl_4b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "0": "No", 
+            "1": "Remote", 
+            "2": "Possible", 
+            "3": "Probably", 
+            "4": "Definite"
+        }
+    }, 
+    "baecl_5": {
+        "Description": "Neck Pain?", 
+        "Levels": ""
+    }, 
+    "baecl_5a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "baecl_5b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "0": "No", 
+            "1": "Remote", 
+            "2": "Possible", 
+            "3": "Probably", 
+            "4": "Definite"
+        }
+    }, 
+    "baecl_6": {
+        "Description": "Scalp Pain?", 
+        "Levels": ""
+    }, 
+    "baecl_6a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "baecl_6b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "0": "No", 
+            "1": "Remote", 
+            "2": "Possible", 
+            "3": "Probably", 
+            "4": "Definite"
+        }
+    }, 
+    "baecl_7": {
+        "Description": "Tingling?", 
+        "Levels": ""
+    }, 
+    "baecl_7a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "baecl_7b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "0": "No", 
+            "1": "Remote", 
+            "2": "Possible", 
+            "3": "Probably", 
+            "4": "Definite"
+        }
+    }, 
+    "baecl_8": {
+        "Description": "Itching?", 
+        "Levels": ""
+    }, 
+    "baecl_8a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "baecl_8b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "0": "No", 
+            "1": "Remote", 
+            "2": "Possible", 
+            "3": "Probably", 
+            "4": "Definite"
+        }
+    }, 
+    "baecl_9": {
+        "Description": "Burning sensation?", 
+        "Levels": ""
+    }, 
+    "baecl_9a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "baecl_9b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "0": "No", 
+            "1": "Remote", 
+            "2": "Possible", 
+            "3": "Probably", 
+            "4": "Definite"
+        }
+    }, 
+    "session": {
+        "Description": "Visit code", 
+        "Units": "Discrete values"
+    }
+}

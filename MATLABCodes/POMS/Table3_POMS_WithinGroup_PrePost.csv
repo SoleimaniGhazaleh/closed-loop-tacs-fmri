@@ -1,0 +1,15 @@
+Group,Measure,N_pairs,Mean_pre,Mean_post,t,df,p_value
+down-regulation,poms_tension_score,8,2.5,4,-1.08012344973464,7,0.315890662954943
+down-regulation,poms_depression_score,8,0.25,0.25,0,7,1
+down-regulation,poms_anger_score,8,0.875,1,-0.195579564679489,7,0.85049537157563
+down-regulation,poms_fatigue_score,8,1.75,2.375,-0.690535471251999,7,0.512096809986287
+down-regulation,poms_confusion_score,8,3,2.875,0.551677284367371,7,0.598331155998746
+down-regulation,poms_vigour_score,8,13,11.5,1.42557288993447,7,0.19702207215775
+down-regulation,poms_tmd_score,8,-4.625,-1,-1.42601053464026,7,0.196900540457065
+up-regulation,poms_tension_score,8,3.25,3.25,0,7,1
+up-regulation,poms_depression_score,8,2.25,1.25,1.36626010212795,7,0.214125041609713
+up-regulation,poms_anger_score,8,1.375,1.25,0.31399291281138,7,0.762677064628634
+up-regulation,poms_fatigue_score,8,2.5,4.25,-1.9414506867883,7,0.0933354058675722
+up-regulation,poms_confusion_score,8,2.75,3.375,-1.66666666666667,7,0.139519583136844
+up-regulation,poms_vigour_score,8,18.375,17.125,0.797724035217466,7,0.451238872001678
+up-regulation,poms_tmd_score,8,-6.25,-3.75,-0.797724035217466,7,0.451238872001678

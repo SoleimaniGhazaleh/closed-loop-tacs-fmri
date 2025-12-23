@@ -1,0 +1,29 @@
+Session,Group,Measure,Question,N,Mean,SD,SEM
+post,down-regulation,baecl_1,Blinding guess: Sham (1) vs Real (2),8,1.625,0.517549169506766,0.18298126367785
+post,up-regulation,baecl_1,Blinding guess: Sham (1) vs Real (2),9,1.66666666666667,0.5,0.166666666666667
+post,down-regulation,baecl_2,Confidence in guess (0–10),8,4,3.02371578407382,1.0690449676497
+post,up-regulation,baecl_2,Confidence in guess (0–10),9,6.11111111111111,3.01846171271247,1.00615390423749
+post,down-regulation,baecl_3,Perceived N-back improvement (0–4),8,2,1.4142135623731,0.5
+post,up-regulation,baecl_3,Perceived N-back improvement (0–4),9,2,1.11803398874989,0.372677996249965
+post,down-regulation,baecl_4,Headache?,8,0,0,0
+post,up-regulation,baecl_4,Headache?,9,0.111111111111111,0.333333333333333,0.111111111111111
+post,down-regulation,baecl_5,Neck pain?,8,0,0,0
+post,up-regulation,baecl_5,Neck pain?,9,0.111111111111111,0.333333333333333,0.111111111111111
+post,down-regulation,baecl_6,Scalp pain?,8,0.125,0.353553390593274,0.125
+post,up-regulation,baecl_6,Scalp pain?,9,0.333333333333333,0.5,0.166666666666667
+post,down-regulation,baecl_7,Tingling?,8,0.25,0.462910049886276,0.163663417676994
+post,up-regulation,baecl_7,Tingling?,9,0.333333333333333,0.5,0.166666666666667
+post,down-regulation,baecl_8,Itching?,8,0.125,0.353553390593274,0.125
+post,up-regulation,baecl_8,Itching?,9,0,0,0
+post,down-regulation,baecl_9,Burning sensation?,8,0.125,0.353553390593274,0.125
+post,up-regulation,baecl_9,Burning sensation?,9,0.111111111111111,0.333333333333333,0.111111111111111
+post,down-regulation,baecl_10,Skin redness?,8,0,0,0
+post,up-regulation,baecl_10,Skin redness?,9,0,0,0
+post,down-regulation,baecl_11,Sleepiness?,8,0.5,0.534522483824849,0.188982236504614
+post,up-regulation,baecl_11,Sleepiness?,9,0.666666666666667,0.5,0.166666666666667
+post,down-regulation,baecl_12,Trouble concentrating?,8,0.125,0.353553390593274,0.125
+post,up-regulation,baecl_12,Trouble concentrating?,9,0.444444444444444,0.52704627669473,0.175682092231577
+post,down-regulation,baecl_13,Acute mood change?,8,0,0,0
+post,up-regulation,baecl_13,Acute mood change?,9,0,0,0
+post,down-regulation,baecl_14,Other adverse effects?,8,0,0,0
+post,up-regulation,baecl_14,Other adverse effects?,9,0,0,0

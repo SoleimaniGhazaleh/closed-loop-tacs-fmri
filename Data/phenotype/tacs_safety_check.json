@@ -1,0 +1,29 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "tACS Safety Check"
+    }, 
+    "session": {
+        "Description": "Visit code", 
+        "Units": "Discrete values"
+    }, 
+    "tasc_safetycheck1": {
+        "Description": "Have you or a first-degree family member (parent, sibling, child) ever suffered from seizures?", 
+        "Levels": ""
+    }, 
+    "tasc_safetycheck2": {
+        "Description": "Do you have any metal in your body such as an infusion pump, pacemaker, metal or shrapnel in the body, deep brain stimulator, aneurysm clip, metal prostheses, joints, rods or plates?", 
+        "Levels": ""
+    }, 
+    "tasc_safetycheck3": {
+        "Description": "Do you have a history of skin disease (for example: blistering or skin cancer on the head)?", 
+        "Levels": ""
+    }, 
+    "tasc_safetycheck4": {
+        "Description": "Have you ever been diagnosed with a psychiatric disorder such as mania, schizophrenia or other psychosis?", 
+        "Levels": ""
+    }, 
+    "tasc_safetycheck5": {
+        "Description": "Are you on medications used to treat psychosis or other psychiatric conditions? ", 
+        "Levels": ""
+    }
+}

@@ -1,0 +1,691 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "Profile Of Mood States (POMS)"
+    }, 
+    "poms_1": {
+        "Description": "1. friendly", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_10": {
+        "Description": "10. shaky", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_11": {
+        "Description": "11. listless", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_12": {
+        "Description": "12. peeved", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_13": {
+        "Description": "13. considerate", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_14": {
+        "Description": "14. sad", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_15": {
+        "Description": "15. active", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_16": {
+        "Description": "16. on edge", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_17": {
+        "Description": "17. grouchy", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_18": {
+        "Description": "18. blue", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_19": {
+        "Description": "19. energetic", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_2": {
+        "Description": "2. tense", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_20": {
+        "Description": "20. panicky", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_21": {
+        "Description": "21. hopeless", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_22": {
+        "Description": "22. relaxed", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_23": {
+        "Description": "23. unworthy", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_24": {
+        "Description": "24. spiteful", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_25": {
+        "Description": "25. sympathetic", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_26": {
+        "Description": "26. uneasy", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_27": {
+        "Description": "27. restless", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_28": {
+        "Description": "28. unable to concentrate", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_29": {
+        "Description": "29. fatigued", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_3": {
+        "Description": "3. angry", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_30": {
+        "Description": "30. helpful", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_31": {
+        "Description": "31. annoyed", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_32": {
+        "Description": "32. discouraged", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_33": {
+        "Description": "33. resentful", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_34": {
+        "Description": "34. nervous", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_35": {
+        "Description": "35. lonely", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_36": {
+        "Description": "36. miserable", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_37": {
+        "Description": "37. muddled", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_38": {
+        "Description": "38. cheerful", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_39": {
+        "Description": "39. bitter", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_4": {
+        "Description": "4. worn out", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_40": {
+        "Description": "40. exhausted", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_41": {
+        "Description": "41. anxious", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_42": {
+        "Description": "42. ready to fight", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_43": {
+        "Description": "43. good natured", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_44": {
+        "Description": "44. gloomy", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_45": {
+        "Description": "45. desperate", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_46": {
+        "Description": "46. sluggish", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_47": {
+        "Description": "47. rebellious", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_48": {
+        "Description": "48. helpless", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_49": {
+        "Description": "49. weary", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_5": {
+        "Description": "5. unhappy", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_50": {
+        "Description": "50. bewildered", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_51": {
+        "Description": "51. alert", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_52": {
+        "Description": "52. deceived", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_53": {
+        "Description": "53. furious", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_54": {
+        "Description": "54. efficient", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_55": {
+        "Description": "55. trusting", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_56": {
+        "Description": "56. full of pep", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_57": {
+        "Description": "57. bad-tempered", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_58": {
+        "Description": "58. worthless", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_59": {
+        "Description": "59. forgetful", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_6": {
+        "Description": "6. clear-headed", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_60": {
+        "Description": "60. carefree", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_61": {
+        "Description": "61. terrified", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_62": {
+        "Description": "62. guilty", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_63": {
+        "Description": "63. vigorous", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_64": {
+        "Description": "64. uncertain about things", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_65": {
+        "Description": "65. bushed", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_7": {
+        "Description": "7. lively", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_8": {
+        "Description": "8. confused", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_9": {
+        "Description": "9. sorry for things done", 
+        "Levels": {
+            "0": "0 - not at all", 
+            "1": "1 - a little", 
+            "2": "2 - moderately", 
+            "3": "3 - quite a bit", 
+            "4": "4 - extremely"
+        }
+    }, 
+    "poms_anger_score": {
+        "Description": "Score (Anger)", 
+        "Levels": "sum([poms_3], [poms_12], [poms_17], [poms_24], [poms_31], [poms_33],[poms_39], [poms_42], [poms_47], [poms_52], [poms_53], [poms_57])"
+    }, 
+    "poms_assessed_at": {
+        "Description": "Assessed at", 
+        "Levels": ""
+    }, 
+    "poms_confusion_score": {
+        "Description": "Score (Confusion)", 
+        "Levels": "sum([poms_8], [poms_28], [poms_37], [poms_50], 4-[poms_54], [poms_59], [poms_64])"
+    }, 
+    "poms_depression_score": {
+        "Description": "Score (Depression)", 
+        "Levels": "sum([poms_5], [poms_9], [poms_14], [poms_18], [poms_21], [poms_23],[poms_32], [poms_35], [poms_36], [poms_44], [poms_45], [poms_48],[poms_58], [poms_61], [poms_62])"
+    }, 
+    "poms_fatigue_score": {
+        "Description": "Score (Fatigue)", 
+        "Levels": "sum([poms_4], [poms_11], [poms_29], [poms_40], [poms_46], [poms_49], [poms_65])"
+    }, 
+    "poms_tension_score": {
+        "Description": "Score (Tension)", 
+        "Levels": "sum([poms_2], [poms_10], [poms_16], [poms_20], 4-[poms_22], [poms_26], [poms_27], [poms_34], [poms_41])"
+    }, 
+    "poms_tmd_score": {
+        "Description": "Score (Total Mood Disturbance)", 
+        "Levels": "sum([poms_tension_score], [poms_depression_score], [poms_anger_score], [poms_fatigue_score], [poms_confusion_score]) - [poms_vigour_score]"
+    }, 
+    "poms_vigour_score": {
+        "Description": "Score (Vigour)", 
+        "Levels": "sum([poms_7], [poms_15], [poms_19], [poms_38], [poms_51], [poms_56],[poms_60], [poms_63])"
+    }, 
+    "session": {
+        "Description": "Visit code", 
+        "Units": "Discrete values"
+    }
+}
