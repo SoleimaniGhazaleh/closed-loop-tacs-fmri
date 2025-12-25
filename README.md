@@ -12,7 +12,7 @@ This closed-loop tACS–fMRI framework builds on our previously published concep
   Soleimani et al., *Translational Psychiatry* (2023).  
   https://www.nature.com/articles/s41398-023-02565-5
 
-![Conceptual framework for closed-loop neuromodulation](https://github.com/SoleimaniGhazaleh/closed-loop-tacs-fmri/raw/main/paper1.jpg)
+![Conceptual framework for closed-loop neuromodulation](https://github.com/SoleimaniGhazaleh/closed-loop-tacs-fmri/raw/main/Paper1.jpg)
 
 We subsequently evaluated the **safety, tolerability, and feasibility** of this closed-loop tACS–fMRI pipeline in a dedicated protocol study:
 
@@ -20,7 +20,7 @@ We subsequently evaluated the **safety, tolerability, and feasibility** of this 
   Soleimani et al., *Brain and Behavior* (2022).  
   https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.2667
 
-![Safety and feasibility protocol for closed-loop tACS–fMRI](https://github.com/SoleimaniGhazaleh/closed-loop-tacs-fmri/raw/main/paper2.jpg)
+![Safety and feasibility protocol for closed-loop tACS–fMRI](https://github.com/SoleimaniGhazaleh/closed-loop-tacs-fmri/raw/main/Paper2.jpg)
 
 
 
